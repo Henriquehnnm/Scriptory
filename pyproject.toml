@@ -1,0 +1,19 @@
+[project]
+name = "scriptory"
+version = "0.1.0"
+description = "Organize your code snippets"
+authors = [
+    {name = "Henrique",email = "hello.henrique@proton.me"}
+]
+license = {text = "GPLv3"}
+readme = "README.md"
+requires-python = ">=3.14,<4.0"
+dependencies = [
+    "rich (>=14.3.3,<15.0.0)",
+    "textual (>=8.2.0,<9.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
