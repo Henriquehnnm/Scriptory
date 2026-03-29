@@ -1,0 +1,14 @@
+{
+  "supported": [
+    "typescript",
+    "javascript",
+    "rust",
+    "python",
+    "bash",
+    "markdown",
+    "json",
+    "sql",
+    "toml",
+    "yaml"
+  ]
+}

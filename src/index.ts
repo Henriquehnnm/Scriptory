@@ -1,1 +1,5 @@
-console.log("Hello via Bun!");
+const main = () => {
+  console.log('Hello World from Scriptory!')
+}
+
+main()
